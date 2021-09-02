@@ -1,0 +1,3 @@
+mlpm
+textblob
+deepspeech

@@ -1,0 +1,8 @@
+[package]
+name="speech"
+vendor="eth-library-lab"
+tagline="Speech Analysis Package"
+
+[[solvers]] 
+name="speechSolver"
+class="speech/solver/speechSolver"
