@@ -1,1 +1,7 @@
+[[models]]
+name = "models 0.9.3"
+url = "https://github.com/eth-library-lab/speech-analysis/releases/download/v0.1/deepspeech-0.9.3-models.pbmm"
 
+[[models]]
+name = "scorer 0.9.3"
+url = "https://github.com/eth-library-lab/speech-analysis/releases/download/v0.1/deepspeech-0.9.3-models.scorer"
